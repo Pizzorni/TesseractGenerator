@@ -4,3 +4,4 @@ Was bored and angry at my lack of ability to draw Tesseracts. Decided to fix tha
 #TODO
 Fix inner overlapping triangles.
 Clean up code(haha)
+Add contributors
